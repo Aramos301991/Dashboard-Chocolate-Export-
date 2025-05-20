@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 clientes_url = "https://raw.githubusercontent.com/Aramos301991/Dashboard-Chocolate-Export/main/clientes.csv" 
 mercados_url = "https://raw.githubusercontent.com/ Aramos301991/Dashboard-Chocolate-Export/main/mercados.csv" 
 exportaciones_url = "https://raw.githubusercontent.com/ Aramos301991/Dashboard-Chocolate-Export/main/exportaciones.csv" 
-barreras_url = “https://raw.githubusercontent.com/ Aramos301991/Dashboard-Chocolate-Export/main/barreras.csv”
+barreras_url = "https://raw.githubusercontent.com/ Aramos301991/Dashboard-Chocolate-Export/main/barreras.csv”
  
 clientes = pd.read_csv(clientes_url) 
 mercados = pd.read_csv(mercados_url) 
